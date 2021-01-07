@@ -7,6 +7,5 @@ package com;
 public class WZF {
     public static void main(String[] args) {
         System.out.println("全部提交");
-
     }
 }
